@@ -1,9 +1,9 @@
 # Project : Don't Fall
-It's a 2D Video Game Plateformer (Made with Unity)
-_One Rule : Don't Fall!_
-Target : Go to the FLAG
-Enemy : Lava, water, chemical waste, other...
-Traps : Blocs (falling, invisible, push, interuptor, other...)
+* It's a 2D Video Game Plateformer (Made with Unity)
+* _One Rule : Don't Fall!_
+* Target : Go to the FLAG
+* Enemy : Lava, water, chemical waste, other...
+* Traps : Blocs (falling, invisible, push/speed, teleport, interuptor, other...)
 
 
 
@@ -21,3 +21,14 @@ Traps : Blocs (falling, invisible, push, interuptor, other...)
 2. Download
 3. Open the directory and launch "Project : Don't Fall.exe"
 (4. Let a comment if you like or not / Repport a bug)
+
+# Bugs/To Do
+* ##Bugs :
+* Blocs don't reset when player die, press R to reload scene
+
+
+* ##To Do :
+* Music
+* B_Push/Speed
+* B_Teleport
+* B_Interuptor
