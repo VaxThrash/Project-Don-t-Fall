@@ -1,9 +1,9 @@
 # Project : Don't Fall
-* It's a 2D Video Game Plateformer (Made with Unity)
-* _One Rule : Don't Fall!_
-* Target : Go to the FLAG
-* Enemy : Lava, water, chemical waste, other...
-* Traps : Blocs (falling, invisible, push/speed, teleport, interuptor, other...)
+It's a 2D Video Game Plateformer (Made with Unity) \
+_One Rule : Don't Fall!_\
+Target : Go to the FLAG \
+Enemy : Lava, water, chemical waste, other...\
+Traps : Blocs (falling, invisible, push/speed, teleport, interuptor, other...) \
 
 
 
