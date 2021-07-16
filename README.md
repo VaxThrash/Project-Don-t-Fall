@@ -23,11 +23,11 @@ Traps : Blocs (falling, invisible, push/speed, teleport, interuptor, other...)
 (4. Let a comment if you like or not / Repport a bug)
 
 # Bugs/To Do
-##Bugs :
+## Bugs :
 * Blocs don't reset when player die, press R to reload scene
 
 
-##To Do :
+## To Do :
 * Music/Effect
 * Bloc Push/Speed
 * Bloc Teleport
