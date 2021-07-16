@@ -3,8 +3,6 @@ It's a 2D Video Game Plateformer (Made with Unity)
 
 
 
-
-
 # How To Install The Project ?
 1 - Download/Install Unity here : https://unity3d.com/fr/get-unity/download
 2 - Download this project
