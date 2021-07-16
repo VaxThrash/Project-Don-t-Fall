@@ -28,7 +28,7 @@ Traps : Blocs (falling, invisible, push/speed, teleport, interuptor, other...)
 
 
 ##To Do :
-* Music
-* B_Push/Speed
-* B_Teleport
-* B_Interuptor
+* Music/Effect
+* Bloc Push/Speed
+* Bloc Teleport
+* Bloc Interuptor
