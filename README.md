@@ -20,7 +20,7 @@ Traps : Blocs (falling, invisible, push/speed, teleport, interuptor, other...)
 1. Go here : https://www.mediafire.com/file/td7uker6uanlci2/Test_0.6.1.zip/file
 2. Download
 3. Unzip/Open the directory and launch "**Project : Don't Fall.exe**"
-4. (Optional) Let a comment if you like or not / Repport a bug
+4. (Optional) Let a comment if you like / Repport a bug
 
 # Bugs/To Do
 ## Bugs :
@@ -32,3 +32,4 @@ Traps : Blocs (falling, invisible, push/speed, teleport, interuptor, other...)
 * Bloc Push/Speed
 * Bloc Teleport
 * Bloc Interuptor
+* More Levels
