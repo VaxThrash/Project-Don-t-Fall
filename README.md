@@ -1,6 +1,6 @@
 # ----ENGLISH----
 
-# Project : Don't Fall
+# _Project : Don't Fall_
 2D Video Game Plateformer (Made with Unity) \
 **_One Rule : DON'T FALL!_** \
 Target : Go to the **Flag** \
@@ -38,7 +38,7 @@ Traps : Blocs (falling, invisible, push/speed, teleport, interuptor, other...)
 
 # ----FRANCAIS----
 
-# Project : Don't Fall
+# _Project : Don't Fall_
 Jeu-Vidéo de plateforme en 2D (Créer sous **Uity**) \
 **_Une seule règle : NE PAS TOMBER!_** \
 Objectif : Allez au **Drapeau** \
