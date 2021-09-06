@@ -1,6 +1,6 @@
 # ----ENGLISH----
 
-# _Project : Don't Fall_
+# __Project : Don't Fall__
 2D Video Game Plateformer (Made with Unity) \
 **_One Rule : DON'T FALL!_** \
 Target : Go to the **Flag** \
