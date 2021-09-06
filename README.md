@@ -64,7 +64,7 @@ Pièges : Blocs (tombe, invisible, poussoir/vitesse, teleportation, interrupteur
 
 # Bugs/A faire
 ## Bugs :
-* Blocs qui ne se recharge pas quan dle joueur meurt, obliger d'appuyer sur **R**
+* Blocs qui ne se recharge pas quand le joueur meurt, obliger d'appuyer sur **R** pour recharger la scene
 
 
 ## A faire :
