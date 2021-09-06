@@ -20,7 +20,8 @@ Traps : Blocs (falling, invisible, push/speed, teleport, interuptor, other...)
 1. Download the game here : https://www.mediafire.com/file/td7uker6uanlci2/Test_0.6.1.zip/file
 2. Unzip the folder
 3. Open the directory and launch "**Project : Don't Fall.exe**"
-4. (Optional) Let a comment / Repport a bug or a suggestion
+4. Play the game
+5. (Optional) Let a comment / Repport a bug or a suggestion
 
 # Bugs/To Do
 ## Bugs :
@@ -57,7 +58,8 @@ Pièges : Blocs (tombe, invisible, poussoir/vitesse, teleportation, interrupteur
 # Pour jouer au jeu :
 1. Téléchargez le jeu ici : https://www.mediafire.com/file/td7uker6uanlci2/Test_0.6.1.zip/file
 2. Dézippez, ouvrez le dossier et lancez **Project : Don't Fall.exe**
-3. (Optionnel) Laissez un commentaire / Repportez un bug ou une suggestion
+3. Jouez au jeu
+4. (Optionnel) Laissez un commentaire / Repportez un bug ou une suggestion
 
 
 # Bugs/A faire
