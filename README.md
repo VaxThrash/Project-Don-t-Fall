@@ -1,7 +1,7 @@
 # ----ENGLISH----
 
 # _Project : Don't Fall_
-2D Video Game Plateformer (Made with Unity) \
+2D Video Game Plateformer (made with **Unity**) \
 **_One Rule : DON'T FALL!_** \
 Target : Go to the **Flag** \
 Enemy : Lava, water, chemical waste, other... \
@@ -41,7 +41,7 @@ Traps : Blocs (falling, invisible, push/speed, teleport, interuptor, other...)
 # ----FRANCAIS----
 
 # _Project : Don't Fall_
-Jeu-Vidéo de plateforme en 2D (Créer sous **Uity**) \
+Jeu-Vidéo de plateforme en 2D (Créer sous **Unity**) \
 **_Une seule règle : NE PAS TOMBER!_** \
 Objectif : Allez au **Drapeau** \
 Enemis : Lave, eau, déchets toxique, autres... \
