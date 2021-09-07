@@ -10,7 +10,7 @@ Traps : Blocs (falling, invisible, push/speed, teleport, interuptor, other...)
 
 # How To Install The Project ?
 1. Download and install **Unity** here : https://unity3d.com/fr/get-unity/download
-2. Download the **Project : Don't Fall** (Code > Download Zip)
+2. Download the **Project : Don't Fall** (Code > Download Zip) and unzip the folder
 3. Open **Unity Hub**
 4. Add new project and select the folder **Project : Don't Fall**
 5. Customize and have fun
@@ -50,7 +50,7 @@ Pièges : Blocs (tombe, invisible, poussoir/vitesse, teleportation, interrupteur
 
 # Comment installer le Projet ?
 1. Téléchargez et installez **Unity** ici : https://unity3d.com/fr/get-unity/download
-2. Téléchargez le **Project Don't Fall** (Code > Télécharger Zip)
+2. Téléchargez le **Project Don't Fall** (Code > Télécharger Zip) et dézippez le dossier
 3. Ouvrez le **Unity Hub**
 4. Ajoutez **new project** et selectionner le dossier **Project : Don't Fall**
 5. Modifier le et amusez-vous
