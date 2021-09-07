@@ -26,6 +26,7 @@ Traps : Blocs (falling, invisible, push/speed, teleport, interuptor, other...)
 # Bugs/To Do
 ## Bugs :
 * Blocs don't reset when player die, press **R** to reload scene
+* Problem when change resolution (screen cut, black border)
 
 
 ## To Do :
@@ -65,6 +66,7 @@ Pièges : Blocs (tombe, invisible, poussoir/vitesse, teleportation, interrupteur
 # Bugs/A faire
 ## Bugs :
 * Blocs qui ne se recharge pas quand le joueur meurt, obliger d'appuyer sur **R** pour recharger la scene
+* Problème quand on change la résolution (coupe sur les côtés, bord noir)
 
 
 ## A faire :
