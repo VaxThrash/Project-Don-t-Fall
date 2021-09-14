@@ -31,7 +31,7 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 * Problem when change resolution (screen cut, black border)
 
 # Update :
-Every fisrt week of the month (Example : next update between 1/10 and 7/10)
+Every fisrt week of the month (next update between 1/10 and 7/10)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse
 * Problème quand on change la résolution (coupe sur les côtés, bord noir)
 
 # Mise à jour :
-Première semaine de chaque mois (exemple : prochaine mise à jour entre le 1/10 et le 7/10)
+Première semaine de chaque mois (prochaine mise à jour entre le 1/10 et le 7/10)
