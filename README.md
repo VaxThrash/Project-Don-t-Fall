@@ -30,8 +30,8 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 * Blocs don't reset when player die, press **R** to reload scene
 * Problem when change resolution (screen cut, black border)
 
-# Updates :
-Update available every fisrt week of the month (Example : next update between 1/10 and 7/10)
+# Update :
+Every fisrt week of the month (Example : next update between 1/10 and 7/10)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse
 * Problème quand on change la résolution (coupe sur les côtés, bord noir)
 
 # Mise à jour :
-Mise à jour disponible la première semaine de chaque mois (exemple : prochaine mise à jour entre le 1/10 et le 7/10)
+Première semaine de chaque mois (exemple : prochaine mise à jour entre le 1/10 et le 7/10)
