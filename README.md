@@ -30,6 +30,9 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 * Blocs don't reset when player die, press **R** to reload scene
 * Problem when change resolution (screen cut, black border)
 
+# Updates :
+Update available every fisrt week of the month (Example : next update between 1/10 and 7/10)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # ![DrapeauFrenchX5](https://user-images.githubusercontent.com/10770240/133244777-e1493f28-1fb9-495f-98c2-5f3ab6e92adf.png) FRANCAIS :
@@ -61,3 +64,6 @@ Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse
 # Bugs :
 * Blocs qui ne se recharge pas quand le joueur meurt, obliger d'appuyer sur **R** pour recharger la scene
 * Problème quand on change la résolution (coupe sur les côtés, bord noir)
+
+# Mise à jour :
+Mise à jour disponible la première semaine de chaque mois (exemple : prochaine mise à jour entre le 1/10 et le 7/10)
