@@ -3,7 +3,7 @@
 # ----ENGLISH----
 
 # _Project : Don't Fall_
-2D Video Game Plateformer (made with **Unity**) \
+2D Video Game Plateformer (Die & Retry & Redie) made with **Unity** \
 **_One Rule : DON'T FALL!_** \
 Target : Go to the **Flag** \
 Enemy : Lava, water, chemical waste, other... \
@@ -44,7 +44,7 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 # ----FRANCAIS----
 
 # _Project : Don't Fall_
-Jeu-Vidéo de plateforme en 2D (Créer sous **Unity**) \
+Jeu-Vidéo de plateforme en 2D (Die & Retry & Redie) créer avec **Unity**) \
 **_Une seule règle : NE PAS TOMBER!_** \
 Objectif : Allez au **Drapeau** \
 Enemis : Lave, eau, déchets toxique, autres... \
