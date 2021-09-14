@@ -1,6 +1,6 @@
 ![Titre](https://user-images.githubusercontent.com/10770240/132386960-6ce9fb77-e1bd-4218-8c26-bf7565a3d0fa.png)
 
-# ----ENGLISH----![FlagEngX5](https://user-images.githubusercontent.com/10770240/133244759-b36403ef-fd8d-4ca9-9cdc-5852a35df180.png)
+# ![FlagEngX5](https://user-images.githubusercontent.com/10770240/133244759-b36403ef-fd8d-4ca9-9cdc-5852a35df180.png) ENGLISH
 
 # _Project : Don't Fall_
 2D Video Game Plateformer (Die & Retry & Redie) made with **Unity** \
@@ -32,7 +32,7 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 
 
 
-# ----FRANCAIS----![DrapeauFrenchX5](https://user-images.githubusercontent.com/10770240/133244777-e1493f28-1fb9-495f-98c2-5f3ab6e92adf.png)
+# ![DrapeauFrenchX5](https://user-images.githubusercontent.com/10770240/133244777-e1493f28-1fb9-495f-98c2-5f3ab6e92adf.png) FRANCAIS
 
 # _Project : Don't Fall_
 Jeu-Vidéo de plateforme en 2D (Die & Retry & Redie) créer avec **Unity**) \
