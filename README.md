@@ -7,7 +7,7 @@
 **_One Rule : DON'T FALL!_** \
 Target : Go to the **Flag** \
 Enemy : Lava, water, chemical waste, other... \
-Traps : Blocs (falling, invisible, push/speed, teleport, interuptor, other...) \
+Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...) \
 ![pixil-frame-0](https://user-images.githubusercontent.com/10770240/133231601-b62d9ae1-14ff-4feb-8289-5409a9484704.png)
 
 
@@ -48,7 +48,8 @@ Jeu-Vidéo de plateforme en 2D (Créer sous **Unity**) \
 **_Une seule règle : NE PAS TOMBER!_** \
 Objectif : Allez au **Drapeau** \
 Enemis : Lave, eau, déchets toxique, autres... \
-Pièges : Blocs (tombe, invisible, poussoir/vitesse, teleportation, interrupteur, autres...)
+Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse, autres...) \
+![pixil-frame-0](https://user-images.githubusercontent.com/10770240/133231601-b62d9ae1-14ff-4feb-8289-5409a9484704.png)
 
 
 # Comment installer le Projet ?
