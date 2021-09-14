@@ -2,7 +2,7 @@
 
 # ![FlagEngX5](https://user-images.githubusercontent.com/10770240/133244759-b36403ef-fd8d-4ca9-9cdc-5852a35df180.png) ENGLISH :
 
-# _Project : Don't Fall_
+# Synopsis :
 2D Video Game Plateformer (Die & Retry & Redie) made with **Unity** \
 **_One Rule : DON'T FALL!_** \
 Target : Go to the **Flag** \
@@ -35,7 +35,7 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 
 # ![DrapeauFrenchX5](https://user-images.githubusercontent.com/10770240/133244777-e1493f28-1fb9-495f-98c2-5f3ab6e92adf.png) FRANCAIS :
 
-# _Project : Don't Fall_
+# Synopsis :
 Jeu-Vidéo de plateforme en 2D (Die & Retry & Redie) créer avec **Unity**) \
 **_Une seule règle : NE PAS TOMBER!_** \
 Objectif : Allez au **Drapeau** \
