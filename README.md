@@ -28,7 +28,7 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 
 # Bugs :
 * Blocs don't reset when player die, press **R** to reload scene
-* Problem when change resolution (screen cut, black border)
+* When resolution change (screen cut, black border)
 
 # Update :
 Every fisrt week of the month (next update between 1/10 and 7/10)
