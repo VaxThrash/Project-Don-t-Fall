@@ -35,7 +35,7 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 # ![DrapeauFrenchX5](https://user-images.githubusercontent.com/10770240/133244777-e1493f28-1fb9-495f-98c2-5f3ab6e92adf.png) FRANCAIS :
 
 # Synopsis :
-Jeu-Vidéo de plateforme en 2D (Die & Retry & Redie) créer avec **Unity**) \
+Jeu-Vidéo de plateforme en 2D (Die & Retry & Redie) créer avec **Unity** \
 **_Une seule règle : NE PAS TOMBER!_** \
 Objectif : Allez au **Drapeau** \
 Enemis : Lave, eau, déchets toxique, autres... \
