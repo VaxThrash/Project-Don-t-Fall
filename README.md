@@ -7,10 +7,8 @@
 **_One Rule : DON'T FALL!_** \
 Target : Go to the **Flag** \
 Enemy : Lava, water, chemical waste, other... \
-Traps : Blocs (falling, invisible, push/speed, teleport, interuptor, other...)![pixil-frame-0](https://user-images.githubusercontent.com/10770240/133231601-b62d9ae1-14ff-4feb-8289-5409a9484704.png)
-
-
-
+Traps : Blocs (falling, invisible, push/speed, teleport, interuptor, other...) \
+![pixil-frame-0](https://user-images.githubusercontent.com/10770240/133231601-b62d9ae1-14ff-4feb-8289-5409a9484704.png)
 
 
 # How To Install The Project ?
