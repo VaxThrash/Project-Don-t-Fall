@@ -6,7 +6,8 @@
 2D Video Game Plateformer (Die & Retry & Redie) made with **Unity** \
 **_One Rule : DON'T FALL!_** \
 Target : Go to the **Flag** \
-Enemy : Lava, water, chemical waste, other... ![Colors X 256](https://user-images.githubusercontent.com/10770240/133311547-4cf99d97-c1bb-469b-bdb7-3bcd6619493e.png) \ 
+Enemy : Lava, water, chemical waste, other... \
+![Colors X 256](https://user-images.githubusercontent.com/10770240/133311547-4cf99d97-c1bb-469b-bdb7-3bcd6619493e.png) \
 Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...) \
 ![pixil-frame-0](https://user-images.githubusercontent.com/10770240/133231601-b62d9ae1-14ff-4feb-8289-5409a9484704.png)
 
