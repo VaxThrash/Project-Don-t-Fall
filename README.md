@@ -30,7 +30,7 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 * Blocs don't reset when player die, press **R** to reload scene
 * Problem when change resolution (screen cut, black border)
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 # ![DrapeauFrenchX5](https://user-images.githubusercontent.com/10770240/133244777-e1493f28-1fb9-495f-98c2-5f3ab6e92adf.png) FRANCAIS :
 
