@@ -26,18 +26,10 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 4. Play the game
 5. (Optional) Let a comment / Repport a bug or a suggestion
 
-# Bugs/To Do
+# Bugs
 ## Bugs :
 * Blocs don't reset when player die, press **R** to reload scene
 * Problem when change resolution (screen cut, black border)
-
-
-## To Do :
-* Music/Effect
-* Bloc Push/Speed
-* Bloc Teleport
-* Bloc Interuptor
-* More Levels (Diffuculty curves)
 
 
 
@@ -67,15 +59,7 @@ Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse
 4. (Optionnel) Laissez un commentaire / Repportez un bug ou une suggestion
 
 
-# Bugs/A faire
+# Bugs
 ## Bugs :
 * Blocs qui ne se recharge pas quand le joueur meurt, obliger d'appuyer sur **R** pour recharger la scene
 * Problème quand on change la résolution (coupe sur les côtés, bord noir)
-
-
-## A faire :
-* Musiques/Effets
-* Bloc Poussoir/Vitesse
-* Bloc Teleportation
-* Bloc Interrupteur
-* Plus de niveaux (Courbe de difficulté)
