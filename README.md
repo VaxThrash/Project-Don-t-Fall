@@ -1,6 +1,6 @@
 ![Titre](https://user-images.githubusercontent.com/10770240/132386960-6ce9fb77-e1bd-4218-8c26-bf7565a3d0fa.png)
 
-# ----ENGLISH----
+# ----ENGLISH----![FlagEngX5](https://user-images.githubusercontent.com/10770240/133244759-b36403ef-fd8d-4ca9-9cdc-5852a35df180.png)
 
 # _Project : Don't Fall_
 2D Video Game Plateformer (Die & Retry & Redie) made with **Unity** \
@@ -26,14 +26,13 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 4. Play the game
 5. (Optional) Let a comment / Repport a bug or a suggestion
 
-# Bugs
-## Bugs :
+# Bugs :
 * Blocs don't reset when player die, press **R** to reload scene
 * Problem when change resolution (screen cut, black border)
 
 
 
-# ----FRANCAIS----
+# ----FRANCAIS----![DrapeauFrenchX5](https://user-images.githubusercontent.com/10770240/133244777-e1493f28-1fb9-495f-98c2-5f3ab6e92adf.png)
 
 # _Project : Don't Fall_
 Jeu-Vidéo de plateforme en 2D (Die & Retry & Redie) créer avec **Unity**) \
@@ -59,7 +58,6 @@ Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse
 4. (Optionnel) Laissez un commentaire / Repportez un bug ou une suggestion
 
 
-# Bugs
-## Bugs :
+# Bugs :
 * Blocs qui ne se recharge pas quand le joueur meurt, obliger d'appuyer sur **R** pour recharger la scene
 * Problème quand on change la résolution (coupe sur les côtés, bord noir)
