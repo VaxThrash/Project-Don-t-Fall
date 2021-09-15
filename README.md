@@ -7,7 +7,7 @@
 **_One Rule : DON'T FALL!_** \
 Target : Go to the **Flag** \
 Enemy : Lava, water, chemical waste, other... \
-![Colors X 256](https://user-images.githubusercontent.com/10770240/133311547-4cf99d97-c1bb-469b-bdb7-3bcd6619493e.png) \
+![colors](https://user-images.githubusercontent.com/10770240/133419033-2af72ed1-9ebd-4b1d-8166-ba4817cbe510.png) \
 Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...) \
 ![pixil-frame-0](https://user-images.githubusercontent.com/10770240/133231601-b62d9ae1-14ff-4feb-8289-5409a9484704.png)
 
