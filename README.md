@@ -9,7 +9,7 @@ Target : Go to the **Flag** \
 Enemy : Lava, water, chemical waste, acid, other... \
 ![colors](https://user-images.githubusercontent.com/10770240/133419033-2af72ed1-9ebd-4b1d-8166-ba4817cbe510.png) \
 Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...) \
-![CubesX4](https://user-images.githubusercontent.com/10770240/133605668-42020c83-6390-459c-b394-90985b3937a3.png)
+![CubesX5](https://user-images.githubusercontent.com/10770240/133606375-ac373ac7-4032-4193-9058-2300427af35f.png)
 
 
 # How To Install The Project ?
