@@ -3,7 +3,7 @@
 # ![FlagEngX5](https://user-images.githubusercontent.com/10770240/133244759-b36403ef-fd8d-4ca9-9cdc-5852a35df180.png) ENGLISH :
 
 # Synopsis :
-2D Video Game Plateformer (Die & Retry & Redie) made with **Unity** \
+2D Video Game Plateformer style (Die & Retry & Redie) made with **Unity** \
 **_One Rule : DON'T FALL!_** \
 Target : Go to the **Flag** \
 Enemy : Lava, water, chemical waste, acid, other... \
@@ -39,7 +39,7 @@ Every fisrt week of the month (next update between 1/10 and 7/10)
 # ![DrapeauFrenchX5](https://user-images.githubusercontent.com/10770240/133244777-e1493f28-1fb9-495f-98c2-5f3ab6e92adf.png) FRANCAIS :
 
 # Synopsis :
-Jeu-Vidéo de plateforme en 2D (Die & Retry & Redie) créer avec **Unity** \
+Jeu-Vidéo style plateforme en 2D (Die & Retry & Redie) créer avec **Unity** \
 **_Une seule règle : NE PAS TOMBER!_** \
 Objectif : Allez au **Drapeau** \
 Enemis : Lave, eau, déchets toxique, acide, autres... \
