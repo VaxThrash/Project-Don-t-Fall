@@ -32,7 +32,7 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 * Black border when changing resolution
 
 # Update :
-Every fisrt week of the month (next update between 1/10 and 7/10)
+Every fisrt week of the month
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse
 * Bordures noir quand on change la résolution
 
 # Mise à jour :
-Première semaine de chaque mois (prochaine mise à jour entre le 1/10 et le 7/10)
+Première semaine de chaque mois
