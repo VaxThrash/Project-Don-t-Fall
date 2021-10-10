@@ -21,14 +21,14 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 
 
 # To Play The Game
-1. Download the game here : https://www.mediafire.com/file/td7uker6uanlci2/Test_0.6.1.zip/file
+1. Download the game here : https://www.mediafire.com/file/6p1ecgbix63zpnw/Project_10.1.zip/file
 2. Unzip the folder
 3. Open the directory and launch "**Project : Don't Fall.exe**"
 4. Play the game
 5. (Optional) Let a comment / Repport a bug or a suggestion
 
 # Bugs :
-* Blocs don't reset when player die, press **R** to reload scene
+* Collisions
 * Black border when changing resolution
 
 # Update :
@@ -57,14 +57,14 @@ Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse
 
 
 # Pour jouer au jeu :
-1. Téléchargez le jeu ici : https://www.mediafire.com/file/td7uker6uanlci2/Test_0.6.1.zip/file
+1. Téléchargez le jeu ici : https://www.mediafire.com/file/6p1ecgbix63zpnw/Project_10.1.zip/file
 2. Dézippez, ouvrez le dossier et lancez **Project : Don't Fall.exe**
 3. Jouez au jeu
 4. (Optionnel) Laissez un commentaire / Repportez un bug ou une suggestion
 
 
 # Bugs :
-* Blocs qui ne se recharge pas quand le joueur meurt, obliger d'appuyer sur **R** pour recharger la scene
+* Collisions
 * Bordures noir quand on change la résolution
 
 # Mise à jour :
