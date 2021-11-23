@@ -42,7 +42,7 @@ Every fisrt week of the month
 Jeu-Vidéo style plateforme en 2D (Die & Retry & Redie) crée avec **Unity** \
 **_Une seule règle : NE PAS TOMBER!_** \
 Objectif : Allez au **Drapeau** \
-Enemis : Lave, eau, déchets toxiques, acide, autres... \
+Ennemis : Lave, eau, déchets toxiques, acide, autres... \
 ![colors](https://user-images.githubusercontent.com/10770240/133419033-2af72ed1-9ebd-4b1d-8166-ba4817cbe510.png) \
 Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse, autres...) \
 ![pixil-frame-0](https://user-images.githubusercontent.com/10770240/133231601-b62d9ae1-14ff-4feb-8289-5409a9484704.png)
