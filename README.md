@@ -31,9 +31,6 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 * Collisions
 * Black border when changing resolution
 
-# Update :
-Every fisrt week of the month
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # ![DrapeauFrenchX5](https://user-images.githubusercontent.com/10770240/133244777-e1493f28-1fb9-495f-98c2-5f3ab6e92adf.png) FRANCAIS :
@@ -67,6 +64,3 @@ Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse
 # Bugs :
 * Collisions
 * Bordures noir quand on change la résolution
-
-# Mise à jour :
-Première semaine de chaque mois
