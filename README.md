@@ -58,9 +58,10 @@ Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse
 
 # Pour jouer au jeu :
 1. Téléchargez le jeu ici : https://www.mediafire.com/file/6p1ecgbix63zpnw/Project_10.1.zip/file
-2. Dézippez, ouvrez le dossier et lancez **Project : Don't Fall.exe**
-3. Jouez au jeu
-4. (Optionnel) Laissez un commentaire / Repportez un bug ou une suggestion
+2. Dézippez le fichier
+3. Ouvrez le dossier et lancez **Project : Don't Fall.exe**
+4. Jouez au jeu
+5. (Optionnel) Laissez un commentaire / Repportez un bug ou une suggestion
 
 
 # Bugs :
