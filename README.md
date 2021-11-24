@@ -1,11 +1,13 @@
 ![Titre](https://user-images.githubusercontent.com/10770240/132386960-6ce9fb77-e1bd-4218-8c26-bf7565a3d0fa.png)
 
 # ![Eng FlagX5](https://user-images.githubusercontent.com/10770240/141441945-806bda1e-2cb5-49ff-a445-ff86048dbe40.png) ENGLISH :
+![Uploading Drapeau.png…]()
 
 # Synopsis :
 2D Video Game Plateformer style (Die & Retry & Redie) made with **Unity** \
 **_One Rule : DON'T FALL!_** \
 Target : Go to the **Flag** \
+![pixil-frame-0(3)](https://user-images.githubusercontent.com/10770240/143298912-109df660-84ce-4b50-bd9d-7210f0187342.png)
 Enemy : Lava, water, chemical waste, acid, other... \
 ![colors](https://user-images.githubusercontent.com/10770240/133419033-2af72ed1-9ebd-4b1d-8166-ba4817cbe510.png) \
 Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...) \
