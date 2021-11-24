@@ -7,7 +7,7 @@
 2D Video Game Plateformer style (Die & Retry & Redie) made with **Unity** \
 **_One Rule : DON'T FALL!_** \
 Target : Go to the **Flag** \
-![pixil-frame-0(3)](https://user-images.githubusercontent.com/10770240/143298912-109df660-84ce-4b50-bd9d-7210f0187342.png)
+![pixil-frame-0(3)](https://user-images.githubusercontent.com/10770240/143298912-109df660-84ce-4b50-bd9d-7210f0187342.png) \
 Enemy : Lava, water, chemical waste, acid, other... \
 ![colors](https://user-images.githubusercontent.com/10770240/133419033-2af72ed1-9ebd-4b1d-8166-ba4817cbe510.png) \
 Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...) \
@@ -41,6 +41,7 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 Jeu-Vidéo style plateforme en 2D (Die & Retry & Redie) crée avec **Unity** \
 **_Une seule règle : NE PAS TOMBER!_** \
 Objectif : Allez au **Drapeau** \
+![pixil-frame-0(3)](https://user-images.githubusercontent.com/10770240/143298912-109df660-84ce-4b50-bd9d-7210f0187342.png) \
 Ennemis : Lave, eau, déchets toxiques, acide, autres... \
 ![colors](https://user-images.githubusercontent.com/10770240/133419033-2af72ed1-9ebd-4b1d-8166-ba4817cbe510.png) \
 Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse, autres...) \
