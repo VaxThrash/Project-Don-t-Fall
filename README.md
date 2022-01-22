@@ -20,7 +20,8 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 2. Download the **Project : Don't Fall** (Code > Download Zip) and unzip the folder
 3. Open **Unity Hub**
 4. Add new project and select the folder **Project : Don't Fall**
-5. Customize and have fun
+5. Don't forget to add "2D Tilemap Extras" in "Window > Packate Manager"
+6. Customize and have fun
 
 
 # To Play The Game
@@ -58,7 +59,8 @@ Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse
 2. Téléchargez le **Project Don't Fall** (Code > Télécharger Zip) et dézippez le dossier
 3. Ouvrez le **Unity Hub**
 4. Ajoutez **new project** et selectionner le dossier **Project : Don't Fall**
-5. Modifier le et amusez-vous
+5. N'oubliez pas d'ajouter "2D Tilemap Extras" dans "Window > Packate Manager"
+6. Modifier le et amusez-vous
 
 
 # Pour jouer au jeu :
