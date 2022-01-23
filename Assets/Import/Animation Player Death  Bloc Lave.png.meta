@@ -48,6 +48,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -57,8 +58,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -292,6 +293,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Animation Player Death  Bloc Lave_1: 753107394137382630
+      Animation Player Death  Bloc Lave_4: -5478374326267132847
+      Animation Player Death  Bloc Lave_2: -6659690022376537860
+      Animation Player Death  Bloc Lave_6: 4772875065378275286
+      Animation Player Death  Bloc Lave_3: 985958818950468856
+      Animation Player Death  Bloc Lave_7: -275221686649706754
+      Animation Player Death  Bloc Lave_0: 1631613711341667913
+      Animation Player Death  Bloc Lave_5: 1356262560568296953
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: 41d4742edec497549a272e8ccacffc75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7425898326796172284
+    second: Area 1-2X512_0
+  - first:
+      213: 5538779495057649755
+    second: Area 1-2X512_1
+  - first:
+      213: -4305450153837409249
+    second: Area 1-2X512_2
+  - first:
+      213: -7725292741868917878
+    second: Area 1-2X512_3
+  - first:
+      213: 6889009228763525808
+    second: Area 1-2X512_4
+  - first:
+      213: 2444917993351912014
+    second: Area 1-2X512_5
+  - first:
+      213: 8573280085332166575
+    second: Area 1-2X512_6
+  - first:
+      213: 1112954344554116461
+    second: Area 1-2X512_7
+  - first:
+      213: 8554614720642263227
+    second: Area 1-2X512_8
+  - first:
+      213: -8587066113489548644
+    second: Area 1-2X512_9
+  - first:
+      213: -9202850359879275157
+    second: Area 1-2X512_10
+  - first:
+      213: -5543208135500090326
+    second: Area 1-2X512_11
+  - first:
+      213: -1824763498900208770
+    second: Area 1-2X512_12
+  - first:
+      213: -1679613944079477049
+    second: Area 1-2X512_13
+  - first:
+      213: -4332231518695946438
+    second: Area 1-2X512_14
+  - first:
+      213: 5276405077865670252
+    second: Area 1-2X512_15
+  - first:
+      213: -2803657736377839645
+    second: Area 1-2X512_16
+  - first:
+      213: 3788730265711682382
+    second: Area 1-2X512_17
+  - first:
+      213: -7153311068683314476
+    second: Area 1-2X512_18
+  - first:
+      213: 1946909781047520128
+    second: Area 1-2X512_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Area 1-2X512_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 172
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404852dd0d8e1f890800000000000000
+      internalID: -7425898326796172284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area 1-2X512_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 468
+        width: 180
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50f024ea92bddc40800000000000000
+      internalID: 5538779495057649755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area 1-2X512_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 160
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cce5675e7ff34c0800000000000000
+      internalID: -4305450153837409249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area 1-2X512_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 420
+        width: 168
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8beffe7e2f3ac490800000000000000
+      internalID: -7725292741868917878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area 1-2X512_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 172
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b276ded46daa9f50800000000000000
+      internalID: 6889009228763525808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area 1-2X512_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 372
+        width: 180
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a93b216f71ee120800000000000000
+      internalID: 2444917993351912014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area 1-2X512_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 172
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7872e70d86af670800000000000000
+      internalID: 8573280085332166575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area 1-2X512_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 324
+        width: 180
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6530666412027f00800000000000000
+      internalID: 1112954344554116461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area 1-2X512_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 168
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8a53e93c818b670800000000000000
+      internalID: 8554614720642263227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area 1-2X512_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 276
+        width: 176
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a49a2bddc94d880800000000000000
+      internalID: -8587066113489548644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area 1-2X512_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 172
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6de1524b58e84080800000000000000
+      internalID: -9202850359879275157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area 1-2X512_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 228
+        width: 180
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a243677e1919213b0800000000000000
+      internalID: -5543208135500090326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area 1-2X512_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 172
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7344f804432da6e0800000000000000
+      internalID: -1824763498900208770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area 1-2X512_13
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 180
+        width: 180
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6995f4400d0b8e0800000000000000
+      internalID: -1679613944079477049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area 1-2X512_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 168
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37806b0362d0e3c0800000000000000
+      internalID: -4332231518695946438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area 1-2X512_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 132
+        width: 176
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c662045767e893940800000000000000
+      internalID: 5276405077865670252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area 1-2X512_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 172
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef4c67a4286719d0800000000000000
+      internalID: -2803657736377839645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area 1-2X512_17
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 84
+        width: 180
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4324856a16449430800000000000000
+      internalID: 3788730265711682382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area 1-2X512_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 172
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dad24f9b755abc90800000000000000
+      internalID: -7153311068683314476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area 1-2X512_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 36
+        width: 180
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b22157120d40b10800000000000000
+      internalID: 1946909781047520128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Area 1-2X512_12: -1824763498900208770
+      Area 1-2X512_14: -4332231518695946438
+      Area 1-2X512_1: 5538779495057649755
+      Area 1-2X512_15: 5276405077865670252
+      Area 1-2X512_19: 1946909781047520128
+      Area 1-2X512_13: -1679613944079477049
+      Area 1-2X512_18: -7153311068683314476
+      Area 1-2X512_7: 1112954344554116461
+      Area 1-2X512_5: 2444917993351912014
+      Area 1-2X512_16: -2803657736377839645
+      Area 1-2X512_6: 8573280085332166575
+      Area 1-2X512_11: -5543208135500090326
+      Area 1-2X512_17: 3788730265711682382
+      Area 1-2X512_0: -7425898326796172284
+      Area 1-2X512_2: -4305450153837409249
+      Area 1-2X512_3: -7725292741868917878
+      Area 1-2X512_4: 6889009228763525808
+      Area 1-2X512_9: -8587066113489548644
+      Area 1-2X512_8: 8554614720642263227
+      Area 1-2X512_10: -9202850359879275157
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

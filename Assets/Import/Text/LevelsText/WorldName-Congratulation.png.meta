@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: 0fd5807165906d44f80cf87fecc0e64c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6903676224485895851
+    second: WorldName-Congratulation_0
+  - first:
+      213: -897957001057083679
+    second: WorldName-Congratulation_1
+  - first:
+      213: -5000956284631196356
+    second: WorldName-Congratulation_2
+  - first:
+      213: 1829591684668178379
+    second: WorldName-Congratulation_3
+  - first:
+      213: 6394490871172232479
+    second: WorldName-Congratulation_4
+  - first:
+      213: 5308160254290021125
+    second: WorldName-Congratulation_5
+  - first:
+      213: 2269638291561128809
+    second: WorldName-Congratulation_6
+  - first:
+      213: 1866378233635800973
+    second: WorldName-Congratulation_7
+  - first:
+      213: -6026303912791979379
+    second: WorldName-Congratulation_8
+  - first:
+      213: 2070235798948762416
+    second: WorldName-Congratulation_9
+  - first:
+      213: 5105261404367530623
+    second: WorldName-Congratulation_10
+  - first:
+      213: -4879413062525222591
+    second: WorldName-Congratulation_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WorldName-Congratulation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 180
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55155331d073130a0800000000000000
+      internalID: -6903676224485895851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldName-Congratulation_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 468
+        width: 260
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeda687dd0d983f0800000000000000
+      internalID: -897957001057083679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldName-Congratulation_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 244
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ddc4d51c8099ab0800000000000000
+      internalID: -5000956284631196356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldName-Congratulation_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 292
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfb7a091f3046910800000000000000
+      internalID: 1829591684668178379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldName-Congratulation_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 196
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15f2bf519bcdb850800000000000000
+      internalID: 6394490871172232479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldName-Congratulation_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 156
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bcdcf90af5aa940800000000000000
+      internalID: 5308160254290021125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldName-Congratulation_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 172
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963202940006f7f10800000000000000
+      internalID: 2269638291561128809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldName-Congratulation_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 252
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8702607d15b6e910800000000000000
+      internalID: 1866378233635800973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldName-Congratulation_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 196
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8acc7125844e5ca0800000000000000
+      internalID: -6026303912791979379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldName-Congratulation_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 184
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03353a59d74fabc10800000000000000
+      internalID: 2070235798948762416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldName-Congratulation_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 82
+        width: 308
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aa6dcc23889d640800000000000000
+      internalID: 5105261404367530623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldName-Congratulation_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 28
+        width: 356
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14188cffba7d84cb0800000000000000
+      internalID: -4879413062525222591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WorldName-Congratulation_4: 6394490871172232479
+      WorldName-Congratulation_3: 1829591684668178379
+      WorldName-Congratulation_11: -4879413062525222591
+      WorldName-Congratulation_1: -897957001057083679
+      WorldName-Congratulation_0: -6903676224485895851
+      WorldName-Congratulation_5: 5308160254290021125
+      WorldName-Congratulation_6: 2269638291561128809
+      WorldName-Congratulation_10: 5105261404367530623
+      WorldName-Congratulation_9: 2070235798948762416
+      WorldName-Congratulation_7: 1866378233635800973
+      WorldName-Congratulation_8: -6026303912791979379
+      WorldName-Congratulation_2: -5000956284631196356
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

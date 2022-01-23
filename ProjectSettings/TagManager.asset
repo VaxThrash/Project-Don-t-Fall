@@ -17,11 +17,33 @@ TagManager:
   - ChronoBar
   - AnimatorDeath
   - RedEye
+  - B_TEL_ENTER
+  - B_TEL_OUT
+  - BlueEyes
+  - GreenEyes
+  - PinkEyes
+  - DZRed
+  - DZBlue
+  - DZGreen
+  - DZPink
+  - AnimDeathRed
+  - AnimDeathBlue
+  - AnimDeathGreen
+  - AnimDeathPink
+  - B_INTER_DETECT
+  - B_INTER_DROP
+  - B_Decord
+  - Flag
+  - PauseMenu
+  - EndPanel
+  - AudioManager
+  - GameManager
+  - FakeFlag
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - PlayerSpawn
   - Water
   - UI
   - 
@@ -29,7 +51,7 @@ TagManager:
   - 
   - B_INV
   - B_FALL
-  - 
+  - FakeFlag
   - 
   - 
   - 

@@ -51,6 +51,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -60,8 +61,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -328,6 +329,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      BlocTEST232x8_0: -6409024872845222449
+      BlocTEST232x8_5: -7865909831011115147
+      BlocTEST232x8_1: 5288901434715753048
+      BlocTEST232x8_3: -1655570321887267918
+      BlocTEST232x8_4: 502077389947992406
+      BlocTEST232x8_6: 1902841101048401062
+      BlocTEST232x8_2: 148876051715072552
+      BlocTEST232x8_8: 5313590077790950132
+      BlocTEST232x8_7: 1346546121368389947
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

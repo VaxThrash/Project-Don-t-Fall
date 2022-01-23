@@ -6,24 +6,19 @@ public class P_Moves : MonoBehaviour
     public float moveSpeed;
     public float jumpForce;
     public float groundChekRadius;
-
     private float horizontalMovement;
 
     private bool isJumping;    
     private bool isGrounded;
 
     public Transform groundChek;
-
     public LayerMask collisionLayers;
-
     public Rigidbody2D rb;
-
     private Vector3 velocity = Vector3.zero;
-
-   public Animator animatorDeath;
-
-   public BoxCollider2D boxCollider2D;
-
+    public Animator animatorDeath;
+    public BoxCollider2D boxCollider2D;
+    public Flag fg; // Variable Flag 
+    public PauseMenu pM; // Variable PauseMenu
 
 
     void Start()
@@ -35,15 +30,18 @@ public class P_Moves : MonoBehaviour
         animatorDeath.enabled = false;
     }
 
+
+    // Jump si Grounded = T & EndPanel = F & PauseMenu = F
     void Update ()
     {
-        if(Input.GetButtonDown("Jump") && isGrounded == true)
+        if(Input.GetButtonDown("Jump") && isGrounded == true && fg.flagActivate == false && pM.pauseMenuActive == false)
         {
             isJumping = true;
             //chrono.StartChrono();
         }
     }
     
+
     void FixedUpdate ()
     {
        
@@ -53,6 +51,7 @@ public class P_Moves : MonoBehaviour
 
         horizontalMovement = Input.GetAxis("Horizontal") * moveSpeed * Time.deltaTime;
     }
+
 
     public void MovePlayer(float _horizontalMovement)
     {
@@ -72,19 +71,58 @@ public class P_Moves : MonoBehaviour
         Gizmos.DrawWireSphere(groundChek.position, groundChekRadius);
     }
 
+
     // Animation Death
- public void OnTriggerEnter2D(Collider2D collision)
+    public void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("AnimatorDeath"))
+        // Rouge
+        if (collision.CompareTag("AnimDeathRed"))
         {
             // Active et joue l'animation
             animatorDeath.enabled = true;
-            animatorDeath.SetTrigger("Dead");
+            animatorDeath.SetTrigger("DeadRed");
+            //Démarre la couroutine ResetHitBoxcolider2d
+            StartCoroutine(ResetBoxCollider2D());
+            
+        }
+        
+
+        // Bleu
+        else if (collision.CompareTag("AnimDeathBlue"))
+        {
+            // Active et joue l'animation
+            animatorDeath.enabled = true;
+            animatorDeath.SetTrigger("DeadBlue");
+            //Démarre la couroutine ResetHitBoxcolider2d
+            StartCoroutine(ResetBoxCollider2D());
+            
+        }
+
+
+        // Vert
+        else if (collision.CompareTag("AnimDeathGreen"))
+        {
+            // Active et joue l'animation
+            animatorDeath.enabled = true;
+            animatorDeath.SetTrigger("DeadGreen");
+            //Démarre la couroutine ResetHitBoxcolider2d
+            StartCoroutine(ResetBoxCollider2D());
+            
+        }
+
+
+        // Rose
+        else if (collision.CompareTag("AnimDeathPink"))
+        {
+            // Active et joue l'animation
+            animatorDeath.enabled = true;
+            animatorDeath.SetTrigger("DeadPink");
             //Démarre la couroutine ResetHitBoxcolider2d
             StartCoroutine(ResetBoxCollider2D());
             
         }
     }
+
 
     // Coroutine Desactive/Active la BoxCillider2D (1 seconde)
     public IEnumerator ResetBoxCollider2D()

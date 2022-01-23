@@ -6,48 +6,53 @@ using UnityEngine;
 public class B_FALL : MonoBehaviour
 {
 
-    public GameObject objectToFall;
+    public GameObject objectToFall; //Bloc FALL (lui-même)
+    public Vector3 originalPosition; //Position original
     public Rigidbody2D rb; // "Gravité"
-    public bool actived; // Bloc activé oui-non
-
-    Vector3 originalPos; // Position original du bloc
-
+    //public bool actived; // Bloc activé oui-non
 
 
     // Start is called before the first frame update
     public void Start()
     {
-        // Position original
-        //originalPos = gameObject.transform.position;
+        // Position du Bloc au lancement de la scène
+        originalPosition = gameObject.transform.position;
         // Bloc activé non
-        actived = false; 
+        //actived = false; 
+        
+        // Varible temporaire pour prendre le RigidBody
         rb = GetComponent<Rigidbody2D>();
         // "Gravité" désactivé           
         rb.bodyType = RigidbodyType2D.Static;
     }
-        // Appel la fonction blocFalling si le joueur rentre dans le trigger
-        private void OnTriggerEnter2D(Collider2D collision)
+
+    // Replace le bloc à sa Position originale + rotation + rigidbody statique  
+    void Update()
+    {   
+
+    }
+
+    // Appel la fonction blocFalling SI le joueur rentre dans le trigger | SINON le bloc touche les DZ(rouge, bleu, vert, rose) le bloc s'arrête au bout de 1 secondes
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.transform.CompareTag("Player"))
         {
             StartCoroutine(BlocFalling());
         }
 
-            else
+        else
 
-                if (collision.transform.CompareTag("DeathZone"))
-                {
-                    StartCoroutine(BlocStop());
-                }
+            if (collision.transform.CompareTag("DZRed") || collision.transform.CompareTag("DZBlue") || collision.transform.CompareTag("DZGreen") || collision.transform.CompareTag("DZPink"))
+            {
+                StartCoroutine(BlocStop());
+            }
     }
+ 
 
     public IEnumerator BlocFalling()
-    {
-        // Bloc activé oui
-        actived = true; 
-        
-        // Attend 0.40 seconds | Active le RigidBody (Gravité On)
-        yield return new WaitForSeconds(0.40f);
+    {    
+        // Attend 0.60 seconds | Active le RigidBody (Gravité On)
+        yield return new WaitForSeconds(0.60f);
         rb.bodyType = RigidbodyType2D.Dynamic;
     }
 
@@ -56,5 +61,17 @@ public class B_FALL : MonoBehaviour
         // Attend 1 seconds | Désactive le rigid body (Gravité Off)
         yield return new WaitForSeconds(1f);
         rb.bodyType = RigidbodyType2D.Static;
+    }
+
+
+    // Fonction pour Reset le bloc Fall (Position)
+    public void ResetBlocFall()
+    { 
+        // Remet le RigidBody en static
+        rb.bodyType = RigidbodyType2D.Static;
+        // Remet la Rotation du Bloc à "0"
+        transform.rotation = Quaternion.identity;
+        // Replace le Bloc à sa position Roriginale
+        gameObject.transform.position = originalPosition;
     }
 }

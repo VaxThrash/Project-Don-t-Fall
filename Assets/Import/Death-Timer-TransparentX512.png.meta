@@ -51,6 +51,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -60,8 +61,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -316,6 +317,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Death-Timer-TransparentX512_0: 9132412492404789567
+      Death-Timer-TransparentX512_6: 5583310276515372983
+      Death-Timer-TransparentX512_7: 5101521135973000987
+      Death-Timer-TransparentX512_1: 4974885449455481722
+      Death-Timer-TransparentX512_4: 416731930369441892
+      Death-Timer-TransparentX512_5: -4776382357272030959
+      Death-Timer-TransparentX512_2: 438921872916717908
+      Death-Timer-TransparentX512_3: 5625718274813656035
+      Death-Timer-TransparentX512_8: 2577806710974809127
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

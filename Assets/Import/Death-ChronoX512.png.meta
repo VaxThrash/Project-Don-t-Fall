@@ -54,6 +54,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -63,8 +64,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -340,6 +341,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Death-ChronoX512_7: -6640686601225150259
+      Death-ChronoX512_1: 1516047135815062986
+      Death-ChronoX512_8: -8662815861581547328
+      Death-ChronoX512_9: 8818699149340047934
+      Death-ChronoX512_4: -2209396442136082995
+      Death-ChronoX512_3: -5512787001268354984
+      Death-ChronoX512_2: -6096422274891030570
+      Death-ChronoX512_5: -7520514009180829928
+      Death-ChronoX512_0: 8764661648208923390
+      Death-ChronoX512_6: 6286406318180111732
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

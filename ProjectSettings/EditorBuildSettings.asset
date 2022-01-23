@@ -6,60 +6,132 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
+    path: Assets/Scenes/Levels/MainMenu.unity
     guid: 53e84e70f760fea4cb13f21585809666
-  - enabled: 0
-    path: Assets/Scenes/Beta.unity
-    guid: 5bd7f44874a6c51409e4b9ce1e7c008e
   - enabled: 1
-    path: Assets/Scenes/Level 0.unity
-    guid: 259a1dd1cf137b94ea759870ae155f79
-  - enabled: 1
-    path: Assets/Scenes/Level 1.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
-    path: Assets/Scenes/Level 2.unity
-    guid: 069ca8ba6e6f22e49b88e7c1a42fea1c
-  - enabled: 1
-    path: Assets/Scenes/Level 2.1.unity
-    guid: 87686cf860ea97443ae1d5b08b9229f9
-  - enabled: 1
-    path: Assets/Scenes/Level 2.2.unity
-    guid: be8c00a67b8e3de47a187dd07c036799
-  - enabled: 1
-    path: Assets/Scenes/Level 3.unity
-    guid: fcf3ef237a133db4abb5b785be7d2daf
-  - enabled: 1
-    path: Assets/Scenes/Level 4.unity
-    guid: b71010ca88f6af642b5244e5923aed9c
-  - enabled: 1
-    path: Assets/Scenes/Level 5.unity
-    guid: 5af05052958df554b9abf9cb27c6761f
-  - enabled: 0
-    path: Assets/Scenes/Proto 1.unity
+    path: Assets/Scenes/Levels/1 - First Steps/Proto 1.unity
     guid: d924cdba4aeb2ce47a9acbec5e6bbbb7
-  - enabled: 0
-    path: Assets/Scenes/Proto 2.unity
+  - enabled: 1
+    path: Assets/Scenes/Levels/2 - Second Coming/Proto 2.unity
     guid: 4f03f858221fbfa43b020d22b595ce62
-  - enabled: 0
-    path: Assets/Scenes/Proto 3.unity
+  - enabled: 1
+    path: Assets/Scenes/Levels/3 - Pathless/Proto 3.unity
     guid: dfcd3188e0916664989b283fcf88dde2
-  - enabled: 0
-    path: Assets/Scenes/Proto 4.unity
+  - enabled: 1
+    path: Assets/Scenes/Levels/4 - The Lab/Proto 4.unity
     guid: 3699297623e171b40b6a2a3a46c179d9
-  - enabled: 0
-    path: Assets/Scenes/Proto 5.unity
+  - enabled: 1
+    path: Assets/Scenes/Levels/5 - Halfway/Proto 5.unity
     guid: 442f108a56d30e54d8c8ca391e8fc815
-  - enabled: 0
-    path: Assets/Scenes/Proto 6.unity
+  - enabled: 1
+    path: Assets/Scenes/Levels/6 - Great Falls/Proto 6.unity
     guid: 1e5ae4b8df1be034c983830d28e97fda
   - enabled: 1
-    path: Assets/Scenes/Level 6.unity
-    guid: a89150410931b45429f557e8c668e2d3
+    path: Assets/Scenes/Levels/7 - Deadlock/Proto 7.unity
+    guid: fa77b9745e8e1ef4a9e93ba8184d2a8b
   - enabled: 1
-    path: Assets/Scenes/Level 6.1.unity
-    guid: fd8245d0c2f5e184d96750ffcbb9560f
+    path: Assets/Scenes/Levels/8 - Last Try/Proto 8.unity
+    guid: 173e432caad3eb24ca3d29c83f974994
   - enabled: 1
-    path: Assets/Scenes/Level 7.unity
-    guid: abfe8e66c73e5e3418a832c1d7b20d00
+    path: Assets/Scenes/Levels/9 - End Of The Line/Proto 9.unity
+    guid: cbcae66cce9dadb4e82ac34e135b65f4
+  - enabled: 1
+    path: Assets/Scenes/Levels/10 - The Hard One/Proto 10.unity
+    guid: ae41512e5ac99e14ca4a93cea2e99ecc
+  - enabled: 1
+    path: Assets/Scenes/Levels/0 - The Test/A 0.0.unity
+    guid: 259a1dd1cf137b94ea759870ae155f79
+  - enabled: 1
+    path: Assets/Scenes/Levels/1 - First Steps/A 1.0.unity
+    guid: 8ad3a695e64017c46b234900e8536f0b
+  - enabled: 1
+    path: Assets/Scenes/Levels/1 - First Steps/A 1.1.unity
+    guid: dbdd83188d3d14541abfbc12d0914a29
+  - enabled: 1
+    path: Assets/Scenes/Levels/1 - First Steps/A 1.2.unity
+    guid: 6d09ea181150eda46912bd5234c3d9d9
+  - enabled: 1
+    path: Assets/Scenes/Levels/1 - First Steps/A 1.3.unity
+    guid: 182b40680ccd32b468f2c6d24d98731b
+  - enabled: 1
+    path: Assets/Scenes/Levels/1 - First Steps/A 1.4.unity
+    guid: 725b5cde7d1464b4ba3bffeb83cbcb75
+  - enabled: 1
+    path: Assets/Scenes/Levels/1 - First Steps/A 1.5.unity
+    guid: 216c116a229a4184d9d36889140ec83c
+  - enabled: 1
+    path: Assets/Scenes/Levels/1 - First Steps/A 1.6.unity
+    guid: 62a335727872df84f88a8838d3df871b
+  - enabled: 1
+    path: Assets/Scenes/Levels/1 - First Steps/A 1.7.unity
+    guid: 795a426e439a8fc4a984ca2891395c7f
+  - enabled: 1
+    path: Assets/Scenes/Levels/1 - First Steps/A 1.8.unity
+    guid: 66d61968b98dea14db3110264b604fef
+  - enabled: 1
+    path: Assets/Scenes/Levels/1 - First Steps/A 1.9.unity
+    guid: db25c334e371ca54c993e4210258059e
+  - enabled: 1
+    path: Assets/Scenes/Levels/2 - Second Coming/A 2.0.unity
+    guid: 54a942b2e438cc74d8a246b2675d5c9e
+  - enabled: 1
+    path: Assets/Scenes/Levels/2 - Second Coming/A 2.1.unity
+    guid: f107f7906761df1459912da8cf78d8d1
+  - enabled: 1
+    path: Assets/Scenes/Levels/2 - Second Coming/A 2.2.unity
+    guid: 09356ffb406e6ec46b3e6f5e6f080af3
+  - enabled: 1
+    path: Assets/Scenes/Levels/2 - Second Coming/A 2.3.unity
+    guid: 3eb1d544ac0879e42aeee70e6c99ca71
+  - enabled: 1
+    path: Assets/Scenes/Levels/2 - Second Coming/A 2.4.unity
+    guid: 4833dcf2896a4d14783c356f41a61ebd
+  - enabled: 1
+    path: Assets/Scenes/Levels/2 - Second Coming/A 2.5.unity
+    guid: 434eed6176ac4134fa0461af0dd848f9
+  - enabled: 1
+    path: Assets/Scenes/Levels/2 - Second Coming/A 2.6.unity
+    guid: 1e58d5494aa3dbd49aa8187581aec39a
+  - enabled: 1
+    path: Assets/Scenes/Levels/2 - Second Coming/A 2.7.unity
+    guid: dac3ff452a1f52b4486700c3b956f58b
+  - enabled: 1
+    path: Assets/Scenes/Levels/2 - Second Coming/A 2.8.unity
+    guid: cf443e7fbefed524f9710bf12d007093
+  - enabled: 1
+    path: Assets/Scenes/Levels/2 - Second Coming/A 2.9.unity
+    guid: 88a6cbab7b2377749a0a6bab0b0a114c
+  - enabled: 1
+    path: Assets/Scenes/Levels/3 - Pathless/A 3.0.unity
+    guid: dd8466d5fe9ea3d4b96e1765b4c539e1
+  - enabled: 1
+    path: Assets/Scenes/Levels/3 - Pathless/A 3.1.unity
+    guid: b1b4cf04054bdfa478192a28edb6e194
+  - enabled: 1
+    path: Assets/Scenes/Levels/3 - Pathless/A 3.2.unity
+    guid: 4d9cde0a84b8c744fa47adcc1fb8fdcc
+  - enabled: 1
+    path: Assets/Scenes/Levels/3 - Pathless/A 3.3.unity
+    guid: 18adbd52244a7b34f90fc3f4badac524
+  - enabled: 1
+    path: Assets/Scenes/Levels/3 - Pathless/A 3.4.unity
+    guid: 2ea0623aece7d5b4e960b94fbc9a0d58
+  - enabled: 1
+    path: Assets/Scenes/Levels/3 - Pathless/A 3.5.unity
+    guid: 0d05d73bd7f6f594e9b82d1970f9a686
+  - enabled: 1
+    path: Assets/Scenes/Levels/4 - The Lab/A 4.0.unity
+    guid: f0b2acb98118d2d468012645a2cb54eb
+  - enabled: 1
+    path: Assets/Scenes/Levels/4 - The Lab/A 4.1.unity
+    guid: ce925e33b5d143743acb42603bcb3fcb
+  - enabled: 1
+    path: Assets/Scenes/Levels/4 - The Lab/A 4.2.unity
+    guid: 58866f66fa4dfda42837220ff517f413
+  - enabled: 1
+    path: Assets/Scenes/Levels/X - X/A X.X.unity
+    guid: 2a8d7711312b017418f45d3e08a26f7f
+  - enabled: 1
+    path: Assets/Scenes/Levels/EndCredit.unity
+    guid: 7454dcd6f9f9b444693d7469d6485e01
   m_configObjects: {}

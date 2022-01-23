@@ -1,19 +1,26 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
+using UnityEngine.SceneManagement; // Pour charger les scenes
 
 public class PauseMenu : MonoBehaviour
 {
     public static bool gameIsPaused = false;
-    //Panel Stting Window
-    public GameObject settingsWindow;
+    public bool pauseMenuActive = false; // Bool false/true pour désactiver "Left, Right, Space, R"
+    public GameObject settingsWindow; // Settings Panel
+    public GameObject pauseMenuUI; // Pause Panel
+    public Flag fg; // Variable Flag
+    
 
-    public GameObject pauseMenuUI;
+    void Start()
+    {
+        
+    }
+
 
     // Update is called once per frame
     void Update()
     {
         //Si appuie sur ECHAP
-        if(Input.GetKeyDown(KeyCode.Escape))
+        if(Input.GetKeyDown(KeyCode.Escape) && fg.flagActivate == false)
         {
             //Fonction Resume
             if(gameIsPaused)
@@ -29,51 +36,57 @@ public class PauseMenu : MonoBehaviour
         }
     }
 
+
     void Paused()
     {   
-        //Empêche le Player d'effectuer une action 
-        //P_Move.instance.enabled = false;
-        //Active le menu Pause (Affiche)
+        // Bool Pause Menu TRUE
+        pauseMenuActive = true;
+        // Active le menu Pause (Affiche)
         pauseMenuUI.SetActive(true);
-        //Arrête le temps
+        // Arrête le temps
         Time.timeScale = 0;
-        //Changer le statut du jeu
+        // Changer le statut du jeu
         gameIsPaused = true;
     }
 
+
     public void Resume()
     {
-        //Réactive les mouvement du Player
-        //P_Moves.instance.enabled = true;
-        //Désactive le menu Pause
+        // Bool Pause Menu FALSE
+        pauseMenuActive = false;
+        // Désactive le menu Pause
         pauseMenuUI.SetActive(false);
-        //Remet le temps
+        // Remet le temps
         Time.timeScale = 1;
-        //Changer le statut du jeu
+        // Changer le statut du jeu
         gameIsPaused = false;
     }
 
+
     public void LoadMainMenu()
     {
-        //Remet la valeur à 1 (mouvement joueur)
+        // Remet la valeur à 1 (mouvement joueur)
         Resume();
-        //Charge le MainMenu
+        // Charge le MainMenu
         SceneManager.LoadScene("MainMenu");
     }
 
-    //Activer la fenetre Panel Setting Window    
+
+    // Activer la fenetre Panel Setting Window    
     public void SettingsButton()
     {
         settingsWindow.SetActive(true);
     }
 
-//Désactiver la fenetre Panel Setting Window
+
+    // Désactiver la fenetre Panel Setting Window
     public void CloseSettingsWindows()
     {
         settingsWindow.SetActive(false);
     }
 
-//Quitte l'appli
+
+    // Quitte l'appli
     public void QuitGame()
     {
         Application.Quit();
