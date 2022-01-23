@@ -37,6 +37,7 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 
 # Links :
 Itch.io : comming soon /
+Zblyat : defsfdsfsd /
 Youtube : coming later
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
