@@ -37,7 +37,7 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 
 # Links :
 Discord : https://discord.gg/BCgbTJ4X \
-Itch.io : comming soon \
+Itch.io : https://vaxthrash.itch.io/project-dont-fall \
 Youtube : coming later
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -78,5 +78,5 @@ Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse
 
 # Liens :
 Discord : https://discord.gg/BCgbTJ4X \
-Itch.io : prochainement \
+Itch.io : https://vaxthrash.itch.io/project-dont-fall \
 Youtube : plus tard
