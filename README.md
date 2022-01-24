@@ -25,7 +25,7 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 
 
 # To Play The Game
-1. Download the game here : https://app.mediafire.com/6rchbq3u1h0az or play it on Itchio : 
+1. Download the game here : https://app.mediafire.com/6rchbq3u1h0az or play it on Itchio : https://vaxthrash.itch.io/project-dont-fall
 2. Unzip the folder
 3. Open the directory and launch "**Project : Don't Fall.exe**"
 4. Play the game
@@ -65,7 +65,7 @@ Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse
 
 
 # Pour jouer au jeu :
-1. Téléchargez le jeu ici : https://app.mediafire.com/6rchbq3u1h0az ou jouez y sur Itchio :
+1. Téléchargez le jeu ici : https://app.mediafire.com/6rchbq3u1h0az ou jouez y sur Itchio : https://vaxthrash.itch.io/project-dont-fall
 2. Dézippez le fichier
 3. Ouvrez le dossier et lancez **Project : Don't Fall.exe**
 4. Jouez au jeu
