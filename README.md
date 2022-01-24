@@ -25,7 +25,7 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 
 
 # To Play The Game
-1. Download the game here : https://www.mediafire.com/file/40gk8baqnp040vw/Project_01_22.zip/file
+1. Download the game here : https://app.mediafire.com/6rchbq3u1h0az or play it on Itchio : 
 2. Unzip the folder
 3. Open the directory and launch "**Project : Don't Fall.exe**"
 4. Play the game
@@ -36,7 +36,7 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 * Black border when changing resolution
 
 # Links :
-Discord : comming soon \
+Discord : https://discord.gg/BCgbTJ4X \
 Itch.io : comming soon \
 Youtube : coming later
 
@@ -65,7 +65,7 @@ Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse
 
 
 # Pour jouer au jeu :
-1. Téléchargez le jeu ici : https://www.mediafire.com/file/40gk8baqnp040vw/Project_01_22.zip/file
+1. Téléchargez le jeu ici : https://app.mediafire.com/6rchbq3u1h0az ou jouez y sur Itchio :
 2. Dézippez le fichier
 3. Ouvrez le dossier et lancez **Project : Don't Fall.exe**
 4. Jouez au jeu
@@ -77,6 +77,6 @@ Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse
 * Bordures noir quand on change la résolution
 
 # Liens :
-Discord : prochainement \
+Discord : https://discord.gg/BCgbTJ4X \
 Itch.io : prochainement \
 Youtube : plus tard
