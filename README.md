@@ -36,8 +36,7 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 * Black border when changing resolution
 
 # Links :
-Itch.io : comming soon /
-Zblyat : defsfdsfsd /
+Itch.io : comming soon \
 Youtube : coming later
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -77,5 +76,5 @@ Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse
 * Bordures noir quand on change la résolution
 
 # Liens :
-Itch.io : prochainement /
+Itch.io : prochainement \
 Youtube : plus tard
