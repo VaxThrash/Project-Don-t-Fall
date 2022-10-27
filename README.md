@@ -36,9 +36,9 @@ Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...
 * Black border when changing resolution
 
 # Links :
-Discord : https://discord.gg/BCgbTJ4X \
+Discord : https://discord.gg/VzdfWF9XK6 \
 Itch.io : https://vaxthrash.itch.io/project-dont-fall \
-Youtube : coming later
+Youtube : maybe one day...
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -77,6 +77,6 @@ Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse
 * Bordures noir quand on change la résolution
 
 # Liens :
-Discord : https://discord.gg/BCgbTJ4X \
+Discord : https://discord.gg/VzdfWF9XK6 \
 Itch.io : https://vaxthrash.itch.io/project-dont-fall \
-Youtube : plus tard
+Youtube : peut-être un jour...
