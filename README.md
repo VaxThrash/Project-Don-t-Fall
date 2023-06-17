@@ -10,9 +10,10 @@
 Target : Go to the **Flag** \
 ![pixil-frame-0(3)](https://user-images.githubusercontent.com/10770240/143298912-109df660-84ce-4b50-bd9d-7210f0187342.png) \
 Enemy : Lava, water, chemical waste, acid, other... \
-![colors](https://user-images.githubusercontent.com/10770240/133419033-2af72ed1-9ebd-4b1d-8166-ba4817cbe510.png) \
+![dz](https://github.com/VaxThrash/Project_Don_t_Fall/assets/10770240/bd981ece-39df-4b50-9054-250acc601fc3)\
 Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...) \
-![CubesX5](https://user-images.githubusercontent.com/10770240/133606375-ac373ac7-4032-4193-9058-2300427af35f.png)
+![Blocs](https://github.com/VaxThrash/Project_Don_t_Fall/assets/10770240/c4c5e3c9-6b84-4a0b-bc99-b5c1c4fff269)
+
 
 
 # How To Install The Project ?
