@@ -9,9 +9,9 @@
 **_One Rule : DON'T FALL!_** \
 Target : Go to the **Flag** \
 ![pixil-frame-0(3)](https://user-images.githubusercontent.com/10770240/143298912-109df660-84ce-4b50-bd9d-7210f0187342.png) \
-Enemy : Lava, water, chemical waste, acid, other... \
+Enemy : Lava, water, chemical waste & acid \
 ![dz](https://github.com/VaxThrash/Project_Don_t_Fall/assets/10770240/bd981ece-39df-4b50-9054-250acc601fc3)\
-Traps : Blocs (falling, invisible, teleporting, interuptor, push/speed, other...) \
+Traps : Blocs (falling, invisible, speed, interuptor & teleporting) \
 ![Blocs](https://github.com/VaxThrash/Project_Don_t_Fall/assets/10770240/c4c5e3c9-6b84-4a0b-bc99-b5c1c4fff269)
 
 
@@ -50,9 +50,9 @@ Jeu-Vidéo style plateforme en 2D (Die & Retry & Redie) crée avec **Unity** \
 **_Une seule règle : NE PAS TOMBER!_** \
 Objectif : Allez au **Drapeau** \
 ![pixil-frame-0(3)](https://user-images.githubusercontent.com/10770240/143298912-109df660-84ce-4b50-bd9d-7210f0187342.png) \
-Ennemis : Lave, eau, déchets toxiques, acide, autres... \
+Ennemis : Lave, eau, déchets toxiques & acide \
 ![dz](https://github.com/VaxThrash/Project_Don_t_Fall/assets/10770240/bd981ece-39df-4b50-9054-250acc601fc3) \
-Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse, autres...) \
+Pièges : Blocs (tombe, invisible, vitesse, interrupteur & teleportation) \
 ![Blocs](https://github.com/VaxThrash/Project_Don_t_Fall/assets/10770240/c4c5e3c9-6b84-4a0b-bc99-b5c1c4fff269)
 
 
