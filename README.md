@@ -51,9 +51,9 @@ Jeu-Vidéo style plateforme en 2D (Die & Retry & Redie) crée avec **Unity** \
 Objectif : Allez au **Drapeau** \
 ![pixil-frame-0(3)](https://user-images.githubusercontent.com/10770240/143298912-109df660-84ce-4b50-bd9d-7210f0187342.png) \
 Ennemis : Lave, eau, déchets toxiques, acide, autres... \
-![colors](https://user-images.githubusercontent.com/10770240/133419033-2af72ed1-9ebd-4b1d-8166-ba4817cbe510.png) \
+![dz](https://github.com/VaxThrash/Project_Don_t_Fall/assets/10770240/bd981ece-39df-4b50-9054-250acc601fc3) \
 Pièges : Blocs (tombe, invisible, teleportation, interrupteur, poussoir/vitesse, autres...) \
-![pixil-frame-0](https://user-images.githubusercontent.com/10770240/133231601-b62d9ae1-14ff-4feb-8289-5409a9484704.png)
+![Blocs](https://github.com/VaxThrash/Project_Don_t_Fall/assets/10770240/c4c5e3c9-6b84-4a0b-bc99-b5c1c4fff269)
 
 
 # Comment installer le Projet ?
