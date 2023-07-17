@@ -8,13 +8,13 @@
 2D Video Game Plateformer style (Die & Retry & Redie) made with **Unity** \
 **_One Rule : DON'T FALL!_** \
 
-Target : Go to the **Flag**
+Target : Go to the **Flag** \
 ![pixil-frame-0(3)](https://user-images.githubusercontent.com/10770240/143298912-109df660-84ce-4b50-bd9d-7210f0187342.png)
 
-Enemy : Lava, water, chemical waste & acid
+Enemy : Lava, water, chemical waste & acid \
 ![dz](https://github.com/VaxThrash/Project_Don_t_Fall/assets/10770240/bd981ece-39df-4b50-9054-250acc601fc3)
 
-Traps : Blocs (falling, invisible, speed, interuptor & teleporting)
+Traps : Blocs (falling, invisible, speed, interuptor & teleporting) \
 ![Blocs](https://github.com/VaxThrash/Project_Don_t_Fall/assets/10770240/c4c5e3c9-6b84-4a0b-bc99-b5c1c4fff269)
 
 
