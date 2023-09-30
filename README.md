@@ -28,16 +28,8 @@ Traps : Blocs (falling, invisible, speed, interuptor & teleporting) \
 6. Customize and have fun
 
 
-# To Play The Game
-1. Download the game here : https://app.mediafire.com/6rchbq3u1h0az or play it on Itchio : https://vaxthrash.itch.io/project-dont-fall
-2. Unzip the folder
-3. Open the directory and launch "**Project : Don't Fall.exe**"
-4. Play the game
-5. (Optional) Let a comment / Repport a bug or a suggestion
+# To Play The Game on Itchio : https://vaxthrash.itch.io/project-dont-fall
 
-# Bugs :
-* Collisions
-* Black border when changing resolution
 
 # Links :
 Discord : https://discord.gg/VzdfWF9XK6 \
@@ -71,17 +63,8 @@ Pièges : Blocs (tombe, invisible, vitesse, interrupteur & teleportation) \
 6. Modifier le et amusez-vous
 
 
-# Pour jouer au jeu :
-1. Téléchargez le jeu ici : https://app.mediafire.com/6rchbq3u1h0az ou jouez y sur Itchio : https://vaxthrash.itch.io/project-dont-fall
-2. Dézippez le fichier
-3. Ouvrez le dossier et lancez **Project : Don't Fall.exe**
-4. Jouez au jeu
-5. (Optionnel) Laissez un commentaire / Repportez un bug ou une suggestion
+# Pour jouer au jeu via Itchio : https://vaxthrash.itch.io/project-dont-fall
 
-
-# Bugs :
-* Collisions
-* Bordures noir quand on change la résolution
 
 # Liens :
 Discord : https://discord.gg/VzdfWF9XK6 \
